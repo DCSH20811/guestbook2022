@@ -1,3 +1,5 @@
+LOGIN_REDIRECT_URL = '/'
+
 """
 Django settings for guestbook project.
 
